@@ -3,7 +3,7 @@ datetime:2019/12/17 04:30 utc -5
 ![img043](../img/img043.jpg)  
 >after above record.  
 >there r many things in life,and some r not easy,  
->what we can do is try our best to make it easy and comfotable.  
+>what we can do is try our best to make it easy and comfortable.  
 >no regret later.  
 
 new 5 years,will it be sad,or epic,we'll see.  
