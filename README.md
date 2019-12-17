@@ -23,3 +23,5 @@ so I do this to record my feeling and my wish to her.
 [day 018](docs/issue018.md)  
 [day 019](docs/issue019.md)  
 [day 020](docs/issue020.md)  
+...  
+[day 043](docs/issue043.md) 
